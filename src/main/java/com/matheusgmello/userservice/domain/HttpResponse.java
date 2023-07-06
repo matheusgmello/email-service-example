@@ -15,9 +15,8 @@ public class HttpResponse {
     protected int statusCode;
     protected HttpStatus status;
     protected String message;
-    protected String Developermessage;
+    protected String DeveloperMessage;
     protected String path;
     protected String requestMethod;
-    protected Map<?,?> data;
-
+    protected Map<?, ?> data;
 }
