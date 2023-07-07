@@ -18,7 +18,6 @@ import org.springframework.data.annotation.CreatedDate;
 import java.time.LocalDateTime;
 import java.util.UUID;
 
-
 @NoArgsConstructor
 @Setter
 @Getter

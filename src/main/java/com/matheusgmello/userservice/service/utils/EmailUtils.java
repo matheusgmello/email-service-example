@@ -1,4 +1,4 @@
-package com.matheusgmello.userservice.utils;
+package com.matheusgmello.userservice.service.utils;
 
 public class EmailUtils {
 
